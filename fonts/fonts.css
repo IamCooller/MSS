@@ -1,0 +1,32 @@
+@font-face {
+    font-family: "Futura";
+    src: url("Futura\ Light\ font.ttf") format("truetype");
+    font-style: normal;
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: "Futura";
+    src: url("Futura\ Heavy\ font.ttf") format("truetype");
+    font-style: normal;
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: "Futura";
+    src: url("Futura\ Book\ font.ttf") format("truetype");
+    font-style: normal;
+    font-weight: 600;
+}
+
+@font-face {
+    font-family: "Futura";
+    src: url("Futura\ Bold\ font.ttf") format("truetype");
+    font-style: normal;
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: 'Avenir' format("truetype");
+    src: url('Avenir\ Roman.otf');
+}
